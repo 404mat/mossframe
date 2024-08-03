@@ -1,0 +1,21 @@
+{
+  "name": "calomnie",
+  "displayName": "Calomnie",
+  "description": "Simple minimal green-hues theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Calomnie",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Calomnie-color-theme.json"
+      }
+    ]
+  }
+}
