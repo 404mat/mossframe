@@ -1,7 +1,7 @@
 {
   "name": "calomnie",
   "displayName": "Calomnie",
-  "description": "Simple minimal green-hues theme.",
+  "description": "Minimal green-hue theme for VSCode",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.92.0"
