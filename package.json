@@ -3,6 +3,18 @@
   "displayName": "Calomnie",
   "description": "Minimal green-hue theme for VSCode",
   "version": "0.0.1",
+  "publisher": "404mat",
+  "pricing": "Free",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "author": {
+    "name": "Mathias D"
+  },
+  "keywords": [
+    "muted",
+    "minimal",
+    "green",
+    "dark"
+  ],
   "engines": {
     "vscode": "^1.92.0"
   },
@@ -14,8 +26,16 @@
       {
         "label": "Calomnie",
         "uiTheme": "vs-dark",
-        "path": "./themes/Calomnie-color-theme.json"
+        "path": "./themes/Calomnie-dark.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/404mat/calomnie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/404mat/calomnie/issues"
+  },
+  "homepage": "https://github.com/404mat/calomnie"
 }
