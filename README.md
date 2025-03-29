@@ -2,7 +2,7 @@
 
 ### `MossFrame`
 
-✨ MossFrame is a simple color theme for VSCode, with minimal color syntax and minimal distractions. This was largely inspired by the _poimandres_ theme in earlier versions, and has now evolved into it's own design.
+✨ A color theme for VSCode, with minimal color syntax and distractions.
 
 ## Recomendations
 
