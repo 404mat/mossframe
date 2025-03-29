@@ -1,6 +1,12 @@
-# MossFrame
+<img src="images/logo-mossframe.png" width="100px" align="left">
 
-MossFrame is a simple color theme for VSCode, with minimal color syntax and minimal distractions. This was largely inspired by the _poimandres_ theme in earlier version, but now represents it's own entity.
+### `MossFrame`
+
+✨ MossFrame is a simple color theme for VSCode, with minimal color syntax and minimal distractions. This was largely inspired by the _poimandres_ theme in earlier versions, and has now evolved into it's own design.
+
+## Recomendations
+
+I recommend using this theme with the [City Lights](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc) B&W icon pack for the ultimate minimal experience (this is how I personnally use it).
 
 ## Contribute
 
