@@ -1,7 +1,7 @@
 {
-  "name": "calomnie",
-  "displayName": "Calomnie",
-  "description": "Minimal green-hue theme for VSCode",
+  "name": "mossframe",
+  "displayName": "MossFrame",
+  "description": "Minimal forest theme for VSCode",
   "icon": "images/logo-calomnie.png",
   "version": "1.1.0",
   "publisher": "404mat",
@@ -25,14 +25,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Calomnie - Dark",
+        "label": "MossFrame",
         "uiTheme": "vs-dark",
-        "path": "./themes/Calomnie-dark.json"
+        "path": "./themes/MossFrame.json"
       },
       {
-        "label": "Calomnie - Darker",
+        "label": "MossFrame - Neon",
         "uiTheme": "vs-dark",
-        "path": "./themes/Calomnie-darker.json"
+        "path": "./themes/MossFrame-Neon.json"
+      },
+      {
+        "label": "MossFrame - Neon Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MossFrame-Neon-Darker.json"
       }
     ]
   },
