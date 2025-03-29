@@ -1,6 +1,6 @@
-# Calomnie
+# MossFrame
 
-Calomnie is a simple color theme for VSCode, with minimal color syntax and simple colors. It basically is a tweaked version of the _poimandres_ theme.
+MossFrame is a simple color theme for VSCode, with minimal color syntax and minimal distractions. This was largely inspired by the _poimandres_ theme in earlier version, but now represents it's own entity.
 
 ## Contribute
 

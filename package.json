@@ -2,8 +2,8 @@
   "name": "mossframe",
   "displayName": "MossFrame",
   "description": "Minimal forest theme for VSCode",
-  "icon": "images/logo-calomnie.png",
-  "version": "1.1.0",
+  "icon": "images/logo-mossframe.png",
+  "version": "2.0.1",
   "publisher": "404mat",
   "pricing": "Free",
   "license": "SEE LICENSE IN LICENSE.txt",
@@ -13,8 +13,10 @@
   "keywords": [
     "muted",
     "minimal",
+    "monochrome",
     "green",
-    "dark"
+    "dark",
+    "forest"
   ],
   "engines": {
     "vscode": "^1.92.0"
@@ -30,12 +32,12 @@
         "path": "./themes/MossFrame.json"
       },
       {
-        "label": "MossFrame - Neon",
+        "label": "MossFrame - Neon (Legacy)",
         "uiTheme": "vs-dark",
         "path": "./themes/MossFrame-Neon.json"
       },
       {
-        "label": "MossFrame - Neon Darker",
+        "label": "MossFrame - Neon Darker (Legacy)",
         "uiTheme": "vs-dark",
         "path": "./themes/MossFrame-Neon-Darker.json"
       }
@@ -43,10 +45,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/404mat/calomnie.git"
+    "url": "https://github.com/404mat/mossframe.git"
   },
   "bugs": {
-    "url": "https://github.com/404mat/calomnie/issues"
+    "url": "https://github.com/404mat/mossframe/issues"
   },
-  "homepage": "https://github.com/404mat/calomnie"
+  "homepage": "https://github.com/404mat/mossframe"
 }
