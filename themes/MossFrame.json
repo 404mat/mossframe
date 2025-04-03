@@ -1973,7 +1973,7 @@
     "checkbox.background": "#ffffff05",
     "checkbox.foreground": "#e4f0fb",
     "checkbox.border": "#ffffff10",
-    "dropdown.background": "#ffffff05",
+    "dropdown.background": "#101010",
     "dropdown.foreground": "#e4f0fb",
     "dropdown.border": "#ffffff10",
     "minimapGutter.addedBackground": "#4fe2c240",
