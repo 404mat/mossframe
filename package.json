@@ -1,9 +1,9 @@
 {
   "name": "mossframe",
   "displayName": "MossFrame",
-  "description": "Minimal forest theme for VSCode",
+  "description": "Minimal forest themes for VSCode",
   "icon": "images/logo-mossframe.png",
-  "version": "2.0.3",
+  "version": "2.1.0",
   "publisher": "404mat",
   "pricing": "Free",
   "license": "SEE LICENSE IN LICENSE.txt",
@@ -27,22 +27,22 @@
   "contributes": {
     "themes": [
       {
-        "label": "MossFrame",
-        "uiTheme": "vs-dark",
-        "path": "./themes/MossFrame-Dark.json"
-      },
-      {
-        "label": "MossFrame (Light)",
+        "label": "MossFrame — Light",
         "uiTheme": "vs",
         "path": "./themes/MossFrame-Light.json"
       },
       {
-        "label": "MossFrame - Neon (Legacy)",
+        "label": "MossFrame — Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MossFrame-Dark.json"
+      },
+      {
+        "label": "MossFrame — Neon (Legacy)",
         "uiTheme": "vs-dark",
         "path": "./themes/MossFrame-Neon.json"
       },
       {
-        "label": "MossFrame - Neon Darker (Legacy)",
+        "label": "MossFrame — Neon Darker (Legacy)",
         "uiTheme": "vs-dark",
         "path": "./themes/MossFrame-Neon-Darker.json"
       }
