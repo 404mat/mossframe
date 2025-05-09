@@ -29,7 +29,12 @@
       {
         "label": "MossFrame",
         "uiTheme": "vs-dark",
-        "path": "./themes/MossFrame.json"
+        "path": "./themes/MossFrame-Dark.json"
+      },
+      {
+        "label": "MossFrame (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/MossFrame-Light.json"
       },
       {
         "label": "MossFrame - Neon (Legacy)",
