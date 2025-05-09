@@ -1,6 +1,6 @@
 {
-  "name": "Forest",
-  "type": "dark",
+  "name": "MossFrame Light",
+  "type": "light",
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
