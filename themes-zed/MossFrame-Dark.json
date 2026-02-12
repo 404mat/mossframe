@@ -1,0 +1,184 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "MossFrame",
+  "author": "404mat",
+  "themes": [
+    {
+      "name": "MossFrame - Dark",
+      "appearance": "dark",
+      "style": {
+        "background.appearance": "opaque",
+        "accents": [],
+        "border": "#00000030",
+        "border.variant": "#00000030",
+        "border.focused": "#00000000",
+        "border.selected": "#00000030",
+        "border.transparent": "#00000030",
+        "border.disabled": "#00000030",
+        "elevated_surface.background": "#101010",
+        "surface.background": "#101010",
+        "background": "#101010",
+        "element.background": "#202420FF",
+        "element.hover": "#5881570d",
+        "element.selected": "#58815726",
+        "drop_target.background": "#75887526",
+        "ghost_element.hover": "#5881570d",
+        "ghost_element.selected": "#58815726",
+        "text": "#8c8c8c",
+        "text.muted": "##545758",
+        "status_bar.background": "#101010",
+        "title_bar.background": "#101010",
+        "toolbar.background": "#00000000",
+        "tab_bar.background": "#101010",
+        "tab.inactive_background": "#101010",
+        "tab.active_background": "#30334080",
+        "search.match_background": "#202820",
+        "panel.background": "#101010",
+        "pane_group.border": "#00000030",
+        "scrollbar.thumb.background": "#58815718",
+        "scrollbar.thumb.hover_background": "#87bc8518",
+        "scrollbar.thumb.active_background": "#87bc8518",
+        "scrollbar.thumb.border": "#58815718",
+        "scrollbar.track.background": "#101010",
+        "scrollbar.track.border": "#00000000",
+        "editor.foreground": "#6a7782",
+        "editor.background": "#101010",
+        "editor.gutter.background": "#101010",
+        "editor.active_line.background": "#292a29",
+        "editor.line_number": "#858585",
+        "editor.active_line_number": "#6a7782",
+        "editor.wrap_guide": "#00000030",
+        "editor.active_wrap_guide": "#00000030",
+        "editor.document_highlight.bracket_background": "#00000000",
+        "terminal.ansi.black": "#000000",
+        "terminal.ansi.bright_black": "#666666",
+        "terminal.ansi.red": "#cd3131",
+        "terminal.ansi.bright_red": "#f14c4c",
+        "terminal.ansi.green": "#0dbc79",
+        "terminal.ansi.bright_green": "#23d18b",
+        "terminal.ansi.yellow": "#e5e510",
+        "terminal.ansi.bright_yellow": "#f5f543",
+        "terminal.ansi.blue": "#2472c8",
+        "terminal.ansi.bright_blue": "#3b8eea",
+        "terminal.ansi.magenta": "#bc3fbc",
+        "terminal.ansi.bright_magenta": "#d670d6",
+        "terminal.ansi.cyan": "#11a8cd",
+        "terminal.ansi.bright_cyan": "#29b8db",
+        "terminal.ansi.white": "#e5e5e5",
+        "terminal.ansi.bright_white": "#e5e5e5",
+        "conflict": "#6c6cc4",
+        "created": "#4fe2c240",
+        "deleted": "#d0676c40",
+        "error": "#d0676c",
+        "error.background": "#B73A3400",
+        "error.border": "#ffffff00",
+        "hidden": "#62665f",
+        "hint": "#969696ff",
+        "ignored": "#8c8c8c",
+        "info": "#add7ff",
+        "info.background": "#4490BF00",
+        "info.border": "#4490BF00",
+        "modified": "#add7ff20",
+        "warning": "#e6dd78",
+        "warning.background": "#A9904000",
+        "warning.border": "#ffffff00",
+        "players": [],
+        "syntax": {
+          "attribute": {
+            "color": "#588157"
+          },
+          "comment": {
+            "color": "#46474f",
+            "font_style": "italic"
+          },
+          "comment.doc": {
+            "color": "#46474f",
+            "font_style": "italic"
+          },
+          "constant": {
+            "color": "#588157"
+          },
+          "constructor": {
+            "color": "#cfcfcf"
+          },
+          "emphasis": {
+            "color": "#9099a1"
+          },
+          "emphasis.strong": {
+            "color": "#588157"
+          },
+          "function": {
+            "color": "#91b490"
+          },
+          "keyword": {
+            "color": "#9099a1"
+          },
+          "number": {
+            "color": "#588157"
+          },
+          "operator": {
+            "color": "#6a7782"
+          },
+          "property": {
+            "color": "#6a7782"
+          },
+          "string": {
+            "color": "#588157"
+          },
+          "string.escape": {
+            "color": "#588157"
+          },
+          "string.regex": {
+            "color": "#588157"
+          },
+          "string.special": {
+            "color": "#9099a1"
+          },
+          "string.special.symbol": {
+            "color": "#9099a1"
+          },
+          "tag": {
+            "color": "#cfcfcf"
+          },
+          "text.literal": {
+            "color": "#588157"
+          },
+          "type": {
+            "color": "#c4c4c4"
+          },
+          "variable": {
+            "color": "#cfcfcf"
+          },
+          "variable.special": {
+            "color": "#c4c4c4"
+          }
+        },
+        "text.accent": "#CFD6CEFF",
+        "panel.focused_border": "#00000000",
+        "panel.overlay_background": "#101010",
+        "panel.overlay_hover": "#101010",
+        "pane.focused_border": "#00000000",
+        "link_text.hover": "#CFD6CEFF",
+        "icon": "#CECECE",
+        "icon.muted": "#62665f",
+        "icon.accent": "#CFD6CEFF",
+        "editor.highlighted_line.background": "#101010",
+        "editor.subheader.background": "#101010",
+        "minimap.thumb.background": "#58815718",
+        "minimap.thumb.hover_background": "#87bc8518",
+        "minimap.thumb.active_background": "#87bc8518",
+        "minimap.thumb.border": "#58815718",
+        "unreachable": "#62665f",
+        "version_control.added": "#5fb3a1",
+        "version_control.deleted": "#d06776",
+        "version_control.modified": "#c9b08c",
+        "version_control.conflict": "#6c6cc4",
+        "version_control.ignored": "#545758",
+        "terminal.background": "#101010",
+        "terminal.foreground": "#6a7782"
+      }
+    }
+  ],
+  "isUserGenerated": true,
+  "description": "Minimal green-hue theme for Zed"
+}
